@@ -4,9 +4,6 @@
 This repository contains code for effective synthetic circuit models written in the [Python](https://www.python.org/downloads/) programming language. 
 The algorithm and examples are described in the publication:
 
-[Adhikari et al (2020) Effective Biophysical Modeling of Cell Free Transcription and Translation Processes
-bioRxiv 2020.02.25.964841; doi: https://doi.org/10.1101/2020.02.25.964841](https://www.biorxiv.org/content/10.1101/2020.02.25.964841v1)
-
 
 ### Installation and Requirements
 There are several required [Python](https://www.python.org/downloads/) packages that must be installed to use the biochemical pathway generation code. 
